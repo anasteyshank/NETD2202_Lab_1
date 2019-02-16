@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab_1_Average_Units_Shipped
+</name>
+</assembly>
+<members>
+<member name="T:Lab_1_Average_Units_Shipped.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab_1_Average_Units_Shipped.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab_1_Average_Units_Shipped.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Lab_1_Average_Units_Shipped.frmAverageUnitsShipped.btnEnter_Click(System.Object,System.EventArgs)">
+ <summary>
+ The Click event of the btnEnter button that validates the user input.
+ If it passes validation, the data is displayed to the user in txtDisplayUnitsShipped textbox.
+ Once the number of units has been entered for the 7th day, the average is calculated and
+ displayed to the user. If the user input doesn't pass validation, the user is prompt to
+ enter a number again.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab_1_Average_Units_Shipped.frmAverageUnitsShipped.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Click event of the reset button that resets the form using a subroutine
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab_1_Average_Units_Shipped.frmAverageUnitsShipped.resetForm">
+ <summary>
+ Private function that resets the form (clears text boxes and lables, if necessary, enables the txtUserInput text box 
+ and the btnenter button)
+ </summary>
+</member>
+<member name="M:Lab_1_Average_Units_Shipped.frmAverageUnitsShipped.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Click event of the exit button that exits the form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

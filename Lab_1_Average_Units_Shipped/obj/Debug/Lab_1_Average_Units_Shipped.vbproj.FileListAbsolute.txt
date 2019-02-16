@@ -1,0 +1,12 @@
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\bin\Debug\Lab_1_Average_Units_Shipped.exe.config
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\bin\Debug\Lab_1_Average_Units_Shipped.exe
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\bin\Debug\Lab_1_Average_Units_Shipped.pdb
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\bin\Debug\Lab_1_Average_Units_Shipped.xml
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.vbprojAssemblyReference.cache
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.frmAverageUnitsShipped.resources
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.Resources.resources
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.vbproj.GenerateResource.cache
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.vbproj.CoreCompileInputs.cache
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.exe
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.xml
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_1_Average_Units_Shipped\Lab_1_Average_Units_Shipped\obj\Debug\Lab_1_Average_Units_Shipped.pdb
